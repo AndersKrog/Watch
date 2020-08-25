@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binarywatch", "Binarywatch\Binarywatch.csproj", "{C45C8560-3B03-42F2-A11A-3FEC5E510093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C45C8560-3B03-42F2-A11A-3FEC5E510093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45C8560-3B03-42F2-A11A-3FEC5E510093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45C8560-3B03-42F2-A11A-3FEC5E510093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45C8560-3B03-42F2-A11A-3FEC5E510093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E47302B-FE63-4EB6-9EA5-BB9B2256FF3E}
+	EndGlobalSection
+EndGlobal

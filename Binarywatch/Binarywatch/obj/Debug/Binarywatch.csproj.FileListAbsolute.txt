@@ -1,0 +1,15 @@
+C:\Users\Tec\source\repos\Binarywatch\Binarywatch\bin\Debug\Binarywatch.exe.config
+C:\Users\Tec\source\repos\Binarywatch\Binarywatch\bin\Debug\Binarywatch.exe
+C:\Users\Tec\source\repos\Binarywatch\Binarywatch\bin\Debug\Binarywatch.pdb
+C:\Users\Tec\source\repos\Binarywatch\Binarywatch\obj\Debug\Binarywatch.csprojAssemblyReference.cache
+C:\Users\Tec\source\repos\Binarywatch\Binarywatch\obj\Debug\Binarywatch.exe
+C:\Users\Tec\source\repos\Binarywatch\Binarywatch\obj\Debug\Binarywatch.pdb
+C:\KODE\Binarywatch\Binarywatch\bin\Debug\Binarywatch.exe.config
+C:\KODE\Binarywatch\Binarywatch\bin\Debug\Binarywatch.exe
+C:\KODE\Binarywatch\Binarywatch\bin\Debug\Binarywatch.pdb
+C:\KODE\Binarywatch\Binarywatch\obj\Debug\Binarywatch.csprojAssemblyReference.cache
+C:\KODE\Binarywatch\Binarywatch\obj\Debug\Binarywatch.csproj.CoreCompileInputs.cache
+C:\KODE\Binarywatch\Binarywatch\obj\Debug\Binarywatch.exe
+C:\KODE\Binarywatch\Binarywatch\obj\Debug\Binarywatch.pdb
+C:\KODE\Binarywatch\Binarywatch\bin\Debug\tick.wav
+C:\KODE\Binarywatch\Binarywatch\bin\Debug\tock.wav
